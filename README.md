@@ -1,2 +1,3 @@
-A simple Pokémon game that does not follow the actual Pokémon rules.
-Written in C and simply prints to the terminal.
+A school assignment made for python written in C.
+It's a simple Pokémon game with some functionality resembling a battle simulator.
+It is ran in the commandline.
